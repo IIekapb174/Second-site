@@ -46,4 +46,38 @@
 	height: 150px;
 	padding-top: 30px;
 	border-bottom-left-radius: 200px 50px; /*Завитушечка на форму*/
+	border-bottom-right-radius: 200px 50px;
+}
+
+form label
+{
+	float: left;
+	margin-left: 37px;
+	color: #999;
+	margin-top: 15px;
+	margin-bottom: 3px;
+	font-size: 14px;
+}
+
+.input-box
+{
+	width: 280px;
+	height: 40px;
+	padding: 0 5px;
+	border: 1px solid #ccc;
+	border-radius: 3px;
+	color: #999;
+}
+
+.input-box::placeholder/*строка которая введена по умолчанию до ввода текста*/
+{
+	color: #999;
+}
+
+.submit-btn
+{
+	width: 280px;
+	height: 60px;
+	color: #fff;
+	font-weight: 600; /*Насыщенность шрифта*/
 }
