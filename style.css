@@ -1,22 +1,49 @@
 .home-header
 {
-	background: #ff9900;	
+	background: #ff9900;
+	color: #fff;	
 }
+
 .logo
 {
 	height: 40px;
 	margin: 20px;
 }
+
 .home-header .row
 {
 	padding-top: 10%;
 	padding-bottom: 15%;
 }
+
 .promo-text-box
 {
 	margin-top: 15%;
 }
+
 .promo-text-box h1
 {
 	margin-bottom: 25px;
+}
+
+.play-btn
+{
+	width: 45px;
+	margin: 20px;
+}
+
+.lead-form
+{
+	width: 350px;
+	background: #fff;
+	margin: 10px auto;
+	border-radius: 3px;
+}
+
+.title-box
+{
+	background-color: #1065b6;
+	height: 150px;
+	padding-top: 30px;
+	border-bottom-left-radius: 200px 50px; /*Завитушечка на форму*/
 }
