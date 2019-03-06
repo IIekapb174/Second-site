@@ -80,4 +80,10 @@ form label
 	height: 60px;
 	color: #fff;
 	font-weight: 600; /*Насыщенность шрифта*/
+	background-color: #1065b6;
+	border: none;
+	border-radius: 3px;
+	margin-top: 20px;
+	cursor: pointer;
+	margin-bottom: -30px;
 }
